@@ -1,4 +1,4 @@
-# BackgroundAI 
+# WallpaperAI 
 
 ### Demo Video
 
